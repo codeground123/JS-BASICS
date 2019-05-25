@@ -1,0 +1,5 @@
+phani kumar  waffle  iron    80  2
+phani kumar   rice    50  2
+jack hudson    waffle  12  10
+jack hudson    rice    10  2
+jack hudson    pens    20  100
